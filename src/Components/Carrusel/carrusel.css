@@ -1,0 +1,16 @@
+.Container{
+    display: flex;
+    align-items: center;
+}
+
+.carousel-inner{
+    width: 900px;
+    height:700px;
+}
+
+.img{
+    width: 900px;
+    height: 700px;
+    max-width: 900px;
+    background-color: red;
+}

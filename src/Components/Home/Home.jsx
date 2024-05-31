@@ -1,11 +1,12 @@
 // import React from 'react'
-import img from '../../assets/img/coop.png'
+// import img from '../../assets/img/coop.png'
+import Carrusel from '../Carrusel/Carrusel'
 
 
 const Home = () => {
   return (
     <div>
-        <img src={img} alt="coop Tour" />
+       <Carrusel/>
     </div>
   )
 }
