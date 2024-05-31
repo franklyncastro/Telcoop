@@ -9,7 +9,7 @@ const Login = () => {
       
       <div className="cardContainer">
         <form className="form_main" action="POST">
-        <img src={logo} alt="logocoop" className="imgLog"/>
+        <img src={logo} alt="logocoop" className="imgLog" loading="lazy" />
           <p className="heading">Login</p>
           <div className="inputContainer">
             <svg
